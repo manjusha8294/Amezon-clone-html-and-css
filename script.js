@@ -26,6 +26,7 @@ next_btn.addEventListener('click' , (e)=>{
         n++;
     }
     else{
+        ud xi===
         n = 0;
     }
     changeSlide();
